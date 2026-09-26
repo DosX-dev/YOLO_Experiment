@@ -95,3 +95,5 @@ Pair Extraordinaire test change 46.
 Pair Extraordinaire test change 47.
 
 Pair Extraordinaire test change 48.
+
+Pair Extraordinaire Hors co-author smoke test.
